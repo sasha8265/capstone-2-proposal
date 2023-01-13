@@ -22,7 +22,7 @@ In Progress...
 
 #### User Flow
 
-![](/Users/sashahome/Dropbox/Sasha/SpringBoard/Capstone-2-proposal/user-flow.jpeg)
+![](user-flow.jpeg)
 
 ------
 
